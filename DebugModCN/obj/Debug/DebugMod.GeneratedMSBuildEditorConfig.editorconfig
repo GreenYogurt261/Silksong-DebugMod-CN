@@ -1,9 +1,0 @@
-is_global = true
-build_property.BepInAutoPluginStripBuildMetadata = 
-build_property.RootNamespace = DebugMod
-build_property.ProjectDir = C:\Users\28302\Desktop\12\Silksong.DebugMod-0.2.2\Silksong.DebugMod-0.2.2\DebugMod\
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
-build_property.CsWinRTUseWindowsUIXamlProjections = false
-build_property.EffectiveAnalysisLevelStyle = 
-build_property.EnableCodeStyleSeverity = 
