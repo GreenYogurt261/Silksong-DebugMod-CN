@@ -1,0 +1,12 @@
+C:\Users\28302\Desktop\12\Silksong.DebugMod-0.2.2\Silksong.DebugMod-0.2.2\DebugMod\obj\Debug\DebugMod.csproj.AssemblyReference.cache
+C:\Users\28302\Desktop\12\Silksong.DebugMod-0.2.2\Silksong.DebugMod-0.2.2\DebugMod\obj\Debug\DebugMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\28302\Desktop\12\Silksong.DebugMod-0.2.2\Silksong.DebugMod-0.2.2\DebugMod\obj\Debug\DebugMod.AssemblyInfoInputs.cache
+C:\Users\28302\Desktop\12\Silksong.DebugMod-0.2.2\Silksong.DebugMod-0.2.2\DebugMod\obj\Debug\DebugMod.AssemblyInfo.cs
+C:\Users\28302\Desktop\12\Silksong.DebugMod-0.2.2\Silksong.DebugMod-0.2.2\DebugMod\obj\Debug\DebugMod.csproj.CoreCompileInputs.cache
+C:\Users\28302\Desktop\12\Silksong.DebugMod-0.2.2\Silksong.DebugMod-0.2.2\DebugMod\bin\Debug\DebugModCN.deps.json
+C:\Users\28302\Desktop\12\Silksong.DebugMod-0.2.2\Silksong.DebugMod-0.2.2\DebugMod\bin\Debug\DebugModCN.dll
+C:\Users\28302\Desktop\12\Silksong.DebugMod-0.2.2\Silksong.DebugMod-0.2.2\DebugMod\bin\Debug\DebugModCN.pdb
+C:\Users\28302\Desktop\12\Silksong.DebugMod-0.2.2\Silksong.DebugMod-0.2.2\DebugMod\bin\Debug\DebugModCN.xml
+C:\Users\28302\Desktop\12\Silksong.DebugMod-0.2.2\Silksong.DebugMod-0.2.2\DebugMod\obj\Debug\DebugModCN.dll
+C:\Users\28302\Desktop\12\Silksong.DebugMod-0.2.2\Silksong.DebugMod-0.2.2\DebugMod\obj\Debug\DebugModCN.xml
+C:\Users\28302\Desktop\12\Silksong.DebugMod-0.2.2\Silksong.DebugMod-0.2.2\DebugMod\obj\Debug\DebugModCN.pdb

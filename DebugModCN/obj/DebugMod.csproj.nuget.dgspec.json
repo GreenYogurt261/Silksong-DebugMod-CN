@@ -1,0 +1,95 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\28302\\Desktop\\12\\Silksong.DebugMod-0.2.2\\Silksong.DebugMod-0.2.2\\DebugMod\\DebugMod.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\28302\\Desktop\\12\\Silksong.DebugMod-0.2.2\\Silksong.DebugMod-0.2.2\\DebugMod\\DebugMod.csproj": {
+      "version": "0.2.2",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\28302\\Desktop\\12\\Silksong.DebugMod-0.2.2\\Silksong.DebugMod-0.2.2\\DebugMod\\DebugMod.csproj",
+        "projectName": "DebugModCN",
+        "projectPath": "C:\\Users\\28302\\Desktop\\12\\Silksong.DebugMod-0.2.2\\Silksong.DebugMod-0.2.2\\DebugMod\\DebugMod.csproj",
+        "packagesPath": "C:\\Users\\28302\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\28302\\Desktop\\12\\Silksong.DebugMod-0.2.2\\Silksong.DebugMod-0.2.2\\DebugMod\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\28302\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.bepinex.dev/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "BepInEx.Analyzers": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.8, )"
+            },
+            "BepInEx.Core": {
+              "target": "Package",
+              "version": "[5.4.21, )"
+            },
+            "Hamunii.BepInEx.AutoPlugin": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "Silksong.GameLibs": {
+              "target": "Package",
+              "version": "[1.1.0-silksong1.0.28561, )"
+            },
+            "UnityEngine.Modules": {
+              "include": "Compile",
+              "target": "Package",
+              "version": "[6000.0.50, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
