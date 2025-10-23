@@ -7,3 +7,5 @@
 文件内包含DebugModCN本体和Silksong.Modlist前置，请分开后再一起放入BepInEx文件夹下的plugins内
 
 *这是一个非官方汉化版本，详细许可证信息请参阅 LICENSE 文件。*
+
+![汉化效果预览](https://github.com/GreenYogurt261/Silksong-DebugMod-CN/blob/main/%E6%B1%89%E5%8C%96%E9%A2%84%E8%A7%88.png)
