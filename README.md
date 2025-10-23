@@ -3,3 +3,5 @@
 ## 鸣谢
 **基于原项目**:https://github.com/hk-speedrunning/Silksong.DebugMod
 感谢作者们对社区的热爱与付出！
+
+文件内包含DebugModCN本体和Silksong.Modlist前置，请分开后再一起放入BepInEx文件夹下的plugins内
